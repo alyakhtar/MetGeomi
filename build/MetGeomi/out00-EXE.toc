@@ -1,0 +1,9 @@
+('C:\\Users\\Aly\\Downloads\\NIC\\dist\\MetGeomi.exe',
+ False,
+ False,
+ 'crawl.ico',
+ None,
+ [],
+ None,
+ False,
+ 1436891031L)
